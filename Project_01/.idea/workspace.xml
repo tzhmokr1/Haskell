@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f4889e9-393c-473a-9bff-47aa55cb14f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y43A3AKoMTdKpCunO7OSool5tV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Cabal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../HSR/3. Semester/Software Testing/mas2019-sw-testing/HSR-SW-Testing-Code/build.gradle" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f4889e9-393c-473a-9bff-47aa55cb14f0" name="Default Changelist" comment="" />
+      <created>1582187892611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582187892611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="272" key="FileChooserDialogImpl" timestamp="1598861668125">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="797" y="272" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598861668125" />
+    <state x="714" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1598861589225">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="714" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598861589225" />
+  </component>
+</project>
